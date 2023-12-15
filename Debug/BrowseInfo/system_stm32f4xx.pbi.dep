@@ -1,0 +1,11 @@
+C:\Users\monke\Desktop\датчики\ stm32\Debug\BrowseInfo\system_stm32f4xx.pbi: \
+  D:\загрузки\system_stm32f4xx.c D:\загрузки\stm32f4xx.h \
+  D:\IAR\arm\CMSIS\Core\Include\core_cm4.h D:\IAR\arm\inc\c\stdint.h \
+  D:\IAR\arm\inc\c\ycheck.h D:\IAR\arm\inc\c\yvals.h \
+  D:\IAR\arm\inc\c\DLib_Defaults.h D:\IAR\arm\inc\c\DLib_Config_Full.h \
+  D:\IAR\arm\inc\c\DLib_Product.h \
+  D:\IAR\arm\CMSIS\Core\Include\cmsis_version.h \
+  D:\IAR\arm\CMSIS\Core\Include\cmsis_compiler.h \
+  D:\IAR\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  D:\IAR\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\IAR\arm\CMSIS\Core\Include\mpu_armv7.h

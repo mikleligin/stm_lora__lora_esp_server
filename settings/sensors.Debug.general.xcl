@@ -1,0 +1,15 @@
+"D:\IAR\arm\bin\armPROC.dll" 
+
+"D:\IAR\arm\bin\armSTLINK.dll" 
+
+"C:\Users\monke\Desktop\датчики stm32\Debug\Exe\sensors.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+--flash_loader="D:\IAR\arm/config/flashloader/ST/FlashSTM32F401xC.board" 
+
+
+
+

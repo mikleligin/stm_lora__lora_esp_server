@@ -1,0 +1,228 @@
+C:\Users\monke\Desktop\датчики\ stm32\Debug\BrowseInfo\main.pbi: \
+  C:\Users\monke\Desktop\датчики\ stm32\main.cpp \
+  C:\Users\monke\Desktop\датчики\ stm32\stm32f4xx.h \
+  D:\IAR\arm\CMSIS\Core\Include\core_cm4.h \
+  D:\IAR\arm\inc\libcpp\stdint.h D:\IAR\arm\inc\libcpp\__config \
+  D:\IAR\arm\inc\libcpp\__config_site \
+  D:\IAR\arm\inc\libcpp\__support\iar\raise.h D:\IAR\arm\inc\c\stdint.h \
+  D:\IAR\arm\inc\c\ycheck.h D:\IAR\arm\inc\c\yvals.h \
+  D:\IAR\arm\inc\c\DLib_Defaults.h D:\IAR\arm\inc\c\DLib_Config_Full.h \
+  D:\IAR\arm\inc\c\DLib_Product.h \
+  D:\IAR\arm\CMSIS\Core\Include\cmsis_version.h \
+  D:\IAR\arm\CMSIS\Core\Include\cmsis_compiler.h \
+  D:\IAR\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  D:\IAR\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\IAR\arm\CMSIS\Core\Include\mpu_armv7.h D:\IAR\arm\inc\libcpp\string \
+  D:\IAR\arm\inc\libcpp\__debug D:\IAR\arm\inc\libcpp\iosfwd \
+  D:\IAR\arm\inc\libcpp\wchar.h D:\IAR\arm\inc\libcpp\stddef.h \
+  D:\IAR\arm\inc\c\stddef.h D:\IAR\arm\inc\c\ysizet.h \
+  D:\IAR\arm\inc\libcpp\__nullptr D:\IAR\arm\inc\c\wchar.h \
+  D:\IAR\arm\inc\libcpp\__functional_base \
+  D:\IAR\arm\inc\libcpp\__functional\binary_function.h \
+  D:\IAR\arm\inc\libcpp\__functional\invoke.h \
+  D:\IAR\arm\inc\libcpp\__functional\weak_result_type.h \
+  D:\IAR\arm\inc\libcpp\__functional\unary_function.h \
+  D:\IAR\arm\inc\libcpp\__undef_macros D:\IAR\arm\inc\libcpp\type_traits \
+  D:\IAR\arm\inc\libcpp\cstddef D:\IAR\arm\inc\libcpp\version \
+  D:\IAR\arm\inc\libcpp\__utility\forward.h \
+  D:\IAR\arm\inc\libcpp\__functional\operations.h \
+  D:\IAR\arm\inc\libcpp\__functional\reference_wrapper.h \
+  D:\IAR\arm\inc\libcpp\__memory\addressof.h \
+  D:\IAR\arm\inc\libcpp\__memory\allocator_arg_t.h \
+  D:\IAR\arm\inc\libcpp\__memory\uses_allocator.h \
+  D:\IAR\arm\inc\libcpp\exception D:\IAR\arm\inc\libcpp\__availability \
+  D:\IAR\arm\inc\libcpp\cstdlib D:\IAR\arm\inc\libcpp\stdlib.h \
+  D:\IAR\arm\inc\c\stdlib.h D:\IAR\arm\inc\c\DLib_Product_stdlib.h \
+  D:\IAR\arm\inc\libcpp\new D:\IAR\arm\inc\c\xmemnew \
+  D:\IAR\arm\inc\libcpp\typeinfo D:\IAR\arm\inc\libcpp\cstdint \
+  D:\IAR\arm\inc\libcpp\utility D:\IAR\arm\inc\libcpp\__tuple \
+  D:\IAR\arm\inc\libcpp\__utility\as_const.h \
+  D:\IAR\arm\inc\libcpp\__utility\move.h \
+  D:\IAR\arm\inc\libcpp\__utility\cmp.h D:\IAR\arm\inc\libcpp\limits \
+  D:\IAR\arm\inc\libcpp\__utility\declval.h \
+  D:\IAR\arm\inc\libcpp\__utility\exchange.h \
+  D:\IAR\arm\inc\libcpp\__utility\in_place.h \
+  D:\IAR\arm\inc\libcpp\__utility\integer_sequence.h \
+  D:\IAR\arm\inc\libcpp\__utility\pair.h \
+  D:\IAR\arm\inc\libcpp\__functional\unwrap_ref.h \
+  D:\IAR\arm\inc\libcpp\__utility\piecewise_construct.h \
+  D:\IAR\arm\inc\libcpp\__utility\rel_ops.h \
+  D:\IAR\arm\inc\libcpp\__utility\swap.h \
+  D:\IAR\arm\inc\libcpp\__utility\to_underlying.h \
+  D:\IAR\arm\inc\libcpp\compare D:\IAR\arm\inc\libcpp\initializer_list \
+  D:\IAR\arm\inc\libcpp\__iterator\wrap_iter.h \
+  D:\IAR\arm\inc\libcpp\__iterator\iterator_traits.h \
+  D:\IAR\arm\inc\libcpp\__iterator\incrementable_traits.h \
+  D:\IAR\arm\inc\libcpp\concepts \
+  D:\IAR\arm\inc\libcpp\__iterator\readable_traits.h \
+  D:\IAR\arm\inc\libcpp\__memory\pointer_traits.h \
+  D:\IAR\arm\inc\libcpp\algorithm D:\IAR\arm\inc\libcpp\__bits \
+  D:\IAR\arm\inc\libcpp\cstring D:\IAR\arm\inc\libcpp\string.h \
+  D:\IAR\arm\inc\c\string.h D:\IAR\arm\inc\c\DLib_Product_string.h \
+  D:\IAR\arm\inc\libcpp\functional \
+  D:\IAR\arm\inc\libcpp\__algorithm\search.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\comp.h \
+  D:\IAR\arm\inc\libcpp\__functional\binary_negate.h \
+  D:\IAR\arm\inc\libcpp\__functional\bind_front.h \
+  D:\IAR\arm\inc\libcpp\__functional\perfect_forward.h \
+  D:\IAR\arm\inc\libcpp\tuple D:\IAR\arm\inc\libcpp\__functional\bind.h \
+  D:\IAR\arm\inc\libcpp\__functional\binder1st.h \
+  D:\IAR\arm\inc\libcpp\__functional\binder2nd.h \
+  D:\IAR\arm\inc\libcpp\__functional\default_searcher.h \
+  D:\IAR\arm\inc\libcpp\__functional\function.h \
+  D:\IAR\arm\inc\libcpp\__memory\allocator_traits.h \
+  D:\IAR\arm\inc\libcpp\__memory\construct_at.h \
+  D:\IAR\arm\inc\libcpp\__memory\compressed_pair.h \
+  D:\IAR\arm\inc\libcpp\__memory\shared_ptr.h \
+  D:\IAR\arm\inc\libcpp\__memory\allocation_guard.h \
+  D:\IAR\arm\inc\libcpp\__memory\allocator.h \
+  D:\IAR\arm\inc\libcpp\stdexcept \
+  D:\IAR\arm\inc\libcpp\__memory\unique_ptr.h \
+  D:\IAR\arm\inc\libcpp\__functional\hash.h D:\IAR\arm\inc\c\xatomic.h \
+  D:\IAR\arm\inc\libcpp\memory \
+  D:\IAR\arm\inc\libcpp\__memory\pointer_safety.h \
+  D:\IAR\arm\inc\libcpp\__memory\raw_storage_iterator.h \
+  D:\IAR\arm\inc\libcpp\iterator \
+  D:\IAR\arm\inc\libcpp\__iterator\access.h \
+  D:\IAR\arm\inc\libcpp\__iterator\advance.h \
+  D:\IAR\arm\inc\libcpp\__function_like.h \
+  D:\IAR\arm\inc\libcpp\__iterator\concepts.h \
+  D:\IAR\arm\inc\libcpp\__iterator\iter_move.h \
+  D:\IAR\arm\inc\libcpp\__iterator\back_insert_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\common_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\iter_swap.h \
+  D:\IAR\arm\inc\libcpp\__ranges\access.h \
+  D:\IAR\arm\inc\libcpp\__ranges\enable_borrowed_range.h \
+  D:\IAR\arm\inc\libcpp\__utility\__decay_copy.h \
+  D:\IAR\arm\inc\libcpp\variant \
+  D:\IAR\arm\inc\libcpp\__variant\monostate.h \
+  D:\IAR\arm\inc\libcpp\__iterator\counted_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\default_sentinel.h \
+  D:\IAR\arm\inc\libcpp\__iterator\data.h \
+  D:\IAR\arm\inc\libcpp\__iterator\distance.h \
+  D:\IAR\arm\inc\libcpp\__iterator\empty.h \
+  D:\IAR\arm\inc\libcpp\__iterator\erase_if_container.h \
+  D:\IAR\arm\inc\libcpp\__iterator\front_insert_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\insert_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\istreambuf_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\istream_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\move_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\next.h \
+  D:\IAR\arm\inc\libcpp\__iterator\ostreambuf_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\ostream_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\prev.h \
+  D:\IAR\arm\inc\libcpp\__iterator\projected.h \
+  D:\IAR\arm\inc\libcpp\__iterator\reverse_access.h \
+  D:\IAR\arm\inc\libcpp\__iterator\reverse_iterator.h \
+  D:\IAR\arm\inc\libcpp\__iterator\size.h \
+  D:\IAR\arm\inc\libcpp\__memory\temporary_buffer.h \
+  D:\IAR\arm\inc\libcpp\__memory\uninitialized_algorithms.h \
+  D:\IAR\arm\inc\libcpp\__functional\identity.h \
+  D:\IAR\arm\inc\libcpp\__functional\mem_fn.h \
+  D:\IAR\arm\inc\libcpp\__functional\mem_fun_ref.h \
+  D:\IAR\arm\inc\libcpp\__functional\not_fn.h \
+  D:\IAR\arm\inc\libcpp\__functional\pointer_to_binary_function.h \
+  D:\IAR\arm\inc\libcpp\__functional\pointer_to_unary_function.h \
+  D:\IAR\arm\inc\libcpp\__functional\ranges_operations.h \
+  D:\IAR\arm\inc\libcpp\__functional\unary_negate.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\adjacent_find.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\all_of.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\any_of.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\binary_search.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\lower_bound.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\half_positive.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\comp_ref_type.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\clamp.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\unwrap_iter.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\copy_backward.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\copy_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\copy_n.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\count.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\count_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\equal.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\equal_range.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\upper_bound.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\fill_n.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\fill.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\find.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\find_end.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\find_first_of.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\find_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\find_if_not.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\for_each.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\for_each_n.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\generate_n.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\generate.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\includes.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\inplace_merge.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\min.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\min_element.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\move.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\rotate.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\move_backward.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\swap_ranges.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\is_heap.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\is_heap_until.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\is_partitioned.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\is_permutation.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\is_sorted.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\is_sorted_until.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\iter_swap.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\lexicographical_compare.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\make_heap.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\sift_down.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\max.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\max_element.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\merge.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\minmax.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\minmax_element.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\mismatch.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\next_permutation.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\reverse.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\none_of.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\nth_element.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\sort.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\partial_sort.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\sort_heap.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\pop_heap.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\partial_sort_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\partition.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\partition_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\partition_point.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\prev_permutation.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\push_heap.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\remove.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\remove_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\remove_copy_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\remove_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\replace.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\replace_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\replace_copy_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\replace_if.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\reverse_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\rotate_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\sample.h \
+  D:\IAR\arm\inc\libcpp\__random\uniform_int_distribution.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\search_n.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\set_difference.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\set_intersection.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\set_symmetric_difference.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\set_union.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\shift_left.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\shift_right.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\shuffle.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\stable_partition.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\stable_sort.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\transform.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\unique_copy.h \
+  D:\IAR\arm\inc\libcpp\__algorithm\unique.h \
+  D:\IAR\arm\inc\libcpp\cstdio D:\IAR\arm\inc\libcpp\stdio.h \
+  D:\IAR\arm\inc\c\stdio.h D:\IAR\arm\inc\libcpp\cwchar \
+  D:\IAR\arm\inc\libcpp\cwctype D:\IAR\arm\inc\libcpp\cctype \
+  D:\IAR\arm\inc\libcpp\ctype.h D:\IAR\arm\inc\c\ctype.h \
+  D:\IAR\arm\inc\libcpp\wctype.h D:\IAR\arm\inc\c\wctype.h \
+  D:\IAR\arm\inc\libcpp\string_view \
+  D:\IAR\arm\inc\libcpp\__ranges\enable_view.h \
+  D:\IAR\arm\inc\libcpp\__string

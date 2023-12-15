@@ -1,0 +1,41 @@
+##IAR Ninja build file
+
+
+#Rules
+rule COMPILER_XCL
+  command = D$:\IAR\common\bin\XclFileGenerator.exe $xclcommand -f "$rspfile_name"
+  description = IAR_NEW_TOOL+++COMPILER_XCL+++$in+++D$:\IAR\common\bin\XclFileGenerator.exe $flags
+  rspfile = $rspfile_name
+  rspfile_content = $flags
+
+rule INDEXER
+  command = D$:\IAR\common\bin\SourceIndexer.exe $flags
+  depfile = $out.dep
+  description = IAR_NEW_TOOL+++INDEXER+++$out+++D$:\IAR\common\bin\SourceIndexer.exe $flags
+
+rule MAKEBROWSE
+  command = D$:\IAR\common\bin\makeBrowseData.exe $flags
+  description = IAR_NEW_TOOL+++MAKEBROWSE+++$out+++D$:\IAR\common\bin\makeBrowseData.exe $flags
+
+rule PDBLINK
+  command = D$:\IAR\common\bin\PbdLink.exe $flags
+  description = IAR_NEW_TOOL+++PDBLINK+++$out+++D$:\IAR\common\bin\PbdLink.exe $flags
+
+
+
+#Build steps
+build C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\monke\Desktop\датчики$ stm32\main.cpp" -xcl_file "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.xcl" -macro_file "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.tmp" -icc_path D$:\IAR\arm\bin\iccarm.exe
+  flags = "C$:\Users\monke\Desktop\датчики$ stm32\main.cpp" -D STM32F401xx -o "C$:\Users\monke\Desktop\датчики$ stm32\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --libc++ -Ol --c++ --no_exceptions --no_rtti -I D$:\IAR\arm\CMSIS\Core\Include\ --predef_macros "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.tmp"
+  rspfile_name = C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.xcl.rsp
+
+build C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.pbi : INDEXER C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.xcl |  $
+C$:\Users\monke\Desktop\датчики$ stm32\main.cpp
+  flags = "-out=C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.pbi" -f "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.xcl"
+
+build C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\sensors.pbw : MAKEBROWSE C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\sensors.pbd
+  flags = "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\sensors.pbd" -output "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\sensors.pbw"
+
+build C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\sensors.pbd : PDBLINK C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.pbi
+  flags = -M "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\sensors.pbd" "C$:\Users\monke\Desktop\датчики$ stm32\Debug\BrowseInfo\main.pbi"
+
